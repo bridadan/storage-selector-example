@@ -1,0 +1,9 @@
+{
+    "target_overrides": {
+        "*": {
+            "storage-selector.storage": "SD_CARD",
+            "storage-selector.filesystem": "LITTLE",
+            "storage-selector.filesystem-instances": "2"
+        }
+    }
+}
